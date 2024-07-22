@@ -13,3 +13,15 @@ Deliverables:
 * Power BI reports and dashboards.
 * Documentation on data processes.
 * Insights and recommendations for users, restaurants, and Zomato.
+  
+
+
+![WhatsApp Image 2024-07-21 at 8 40 26 AM](https://github.com/user-attachments/assets/e5242327-e451-4df5-b0b8-bbc4d53133ad)
+
+
+![Screen Shot 2024-07-22 at 4 14 30 pm](https://github.com/user-attachments/assets/507aa5ce-fdac-460f-8c82-9de7d405ac0b)
+
+
+![Screen Shot 2024-07-22 at 4 12 01 pm](https://github.com/user-attachments/assets/bd2a91a2-2c0c-4073-a77d-684e738487d6)
+
+
