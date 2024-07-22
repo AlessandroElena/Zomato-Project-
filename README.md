@@ -1,5 +1,5 @@
 Overview:
-This project involves using Excel, Power BI and Tableau to analyze and visualize data from Zomato, focusing on restaurant details, ratings, reviews, and user preferences. The goal is to provide actionable insights for users, restaurants, and the Zomato platform.
+This project involves using Excel, MySQL, Power BI and Tableau to analyze and visualize data from Zomato, focusing on restaurant details, ratings, reviews, and user preferences. The goal is to provide actionable insights for users, restaurants, and the Zomato platform.
 Objectives:
 1. Extract Zomato dataset or use API for relevant data.
 2. Clean and transform data for analysis.
