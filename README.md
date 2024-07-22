@@ -10,7 +10,7 @@ Objectives:
 7. Design interactive dashboards for presentation.
 8. Optional: Explore predictive analysis and recommendation systems.
 Deliverables:
-* Power BI reports and dashboards.
+* Power BI and Tableau reports and dashboards.
 * Documentation on data processes.
 * Insights and recommendations for users, restaurants, and Zomato.
   
